@@ -1,0 +1,251 @@
+body{
+    background: #3B3B3B;
+}
+.titu1{
+    color: #C71E1E;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0 0 10px #FF2B00;
+}
+.box{
+    padding: 20px;
+    background: linear-gradient(transparent, #FF2121);
+    border-radius: 30px;
+    width: 40%;
+    margin: auto;
+    padding-top: 2px;
+    box-shadow: 0 0 40px 0 #DE1818;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+.titu2{
+    color: #261F1F;
+    text-align: center;
+    font-size: 25px;
+    text-align: center;
+    font-family: nixbox;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 0 0 10px #FF7900;
+}
+.text{
+    color: #1A1717;
+    font-size: nixbox;
+    font-style: italic;
+    text-align: justify;
+    line-height: 1.1;
+    text-shadow: 0 0 10px #FF7900;
+    font-size: 18px;
+}
+.box2{
+    padding: 20px;
+    background: linear-gradient(transparent, #FF2121);
+    border-radius: 30px;
+    width: 40%;
+    margin: auto;
+    padding-top: 2px;
+    box-shadow: 0 0 40px 0 #DE1818;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+.box3{
+    padding: 20px;
+    background: linear-gradient(transparent, #FF2121);
+    border-radius: 30px;
+    width: 30%;
+    margin: auto;
+    padding-top: 2px;
+    box-shadow: 0 0 40px 0 #DE1818;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+.im1{
+    background-image: url(nixbox.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+    padding: 20px;
+}
+.im3{
+    background-image: url(dro.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+    padding: 20px;
+}
+.im5{
+    background-image: url(mine.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+    padding: 20px;
+}
+.im6{
+    background-image: url(de.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+    padding: 20px;
+}
+.titul{
+    color: #261F1F;
+    text-align: center;
+    font-size: 25px;
+    text-align: center;
+    font-family: nixbox;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 0 0 10px #FF7900;
+}
+.titu3{
+    color: #261F1F;
+    text-align: center;
+    font-size: 25px;
+    text-align: center;
+    font-family: nixbox;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 0 0 10px #FF7900;
+}
+.ima1{
+    background-image: url(minef.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+    padding: 20px;
+}
+.ima2{
+   background-image: url(sun.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+    padding: 20px;
+}
+.ima3{
+    background-image: url(clo.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+    padding: 20px;
+}
+.ima4{
+    background-image: url(fros.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    border-radius: 50px;
+    padding: 20px;
+}
+.box4{
+    padding: 20px;
+    background: linear-gradient(transparent, #FF2121);
+    border-radius: 30px;
+    width: 40%;
+    margin: auto;
+    padding-top: 2px;
+    box-shadow: 0 0 40px 0 #DE1818;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+.co1{
+    background-image: url(config1.png);
+    padding: 320px;
+    margin: 20px;
+    width: auto;
+    box-shadow: 0 0 20px 0 #FFC800;
+    padding-bottom: 40px;
+    border-radius: 30px;
+}
+.co2{
+    background-image: url(config2.png);
+    padding: 320px;
+    margin: 20px;
+    width: auto;
+    box-shadow: 0 0 20px 0 #FFC800;
+    padding-top: 40px;
+    border-radius: 30px;
+}
+.co3{
+    background-image: url(config3.png);
+    padding: 320px;
+    margin: 20px;
+    width: auto;
+    box-shadow: 0 0 20px 0 #FFC800;
+    padding-top: 40px;
+    border-radius: 30px;
+}
+.co4{
+    background-image: url(config4.png);
+    padding: 320px;
+    margin: 20px;
+    width: auto;
+    box-shadow: 0 0 20px 0 #FFC800;
+    padding-top: 40px;
+    border-radius: 30px;
+}
+.mini{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding: 18px;
+}
+.box5{
+    padding: 20px;
+    background: linear-gradient(transparent, #FF2121);
+    border-radius: 30px;
+    width: 40%;
+    margin: auto;
+    padding-top: 2px;
+    box-shadow: 0 0 40px 0 #DE1818;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+.image1{
+    background-image: url(configs1.png);
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    padding: 120px;
+    margin: auto;
+    width: 120px;
+    box-shadow: 0 0 20px 0 #FFC800;
+    padding-bottom: 40px;
+}
+.image2{
+    background-image: url(configs2.png);
+    background-repeat: no-repeat;
+    padding: 115px;
+    margin: 30px;
+    width: 115px;
+    height: 55px;
+    box-shadow: 0 0 20px 0 #FFC800;
+    padding-top: 40px;
+    border-radius: 30px;
+}
+.image3{
+    background-image: url(configs5.png);
+    background-repeat: no-repeat;
+    padding: 20px;
+    margin: 20px;
+    width: 500px;
+    box-shadow: 0 0 20px 0 #FFC800;
+    padding-top: 40px;
+    border-radius: 30px;
+}
+.box6{
+    padding: 20px;
+    background: linear-gradient(transparent, #FF2121);
+    border-radius: 30px;
+    width: 40%;
+    margin: auto;
+    padding-top: 2px;
+    box-shadow: 0 0 40px 0 #DE1818;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
